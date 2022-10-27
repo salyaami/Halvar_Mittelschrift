@@ -1,0 +1,127 @@
+@import "reset.css";
+@import "content.css";
+@import "font.css";
+
+
+@font-face {
+  font-family: "Halvar Mittel Bd"; /* Имя шрифта */
+  src: url(../font/HalvarMittel-Bd.ttf); /* Путь к файлу со шрифтом */
+  }
+@font-face {
+  font-family: "Halvar Mittel Bd Sl"; /* Имя шрифта */
+  src: url(../font/HalvarMittel-BdSlanted.ttf); /* Путь к файлу со шрифтом */
+}
+@font-face {
+  font-family: "Halvar Mittel Bd SuSl"; /* Имя шрифта */
+  src: url(../font/HalvarMittel-BdSuSlanted.ttf); /* Путь к файлу со шрифтом */
+}
+@font-face {
+  font-family: "Halvar Mittel Blk"; /* Имя шрифта */
+  src: url(../font/HalvarMittel-Blk.ttf); /* Путь к файлу со шрифтом */
+  }
+@font-face {
+  font-family: "Halvar Mittel Blk Sl"; /* Имя шрифта */
+  src: url(../font/HalvarMittel-BlkSlanted.ttf); /* Путь к файлу со шрифтом */
+  }
+@font-face {
+  font-family: "Halvar Mittel Blk SuSl";
+  src: url(../font/HalvarMittel-BlkSuSlanted.ttf);
+   /* Путь к файлу со шрифтом */
+}
+@font-face {
+  font-family: "Halvar Mittel Hl"; /* Имя шрифта */
+  src: url(../font/HalvarMittel-Hl.ttf); /* Путь к файлу со шрифтом */
+}
+@font-face {
+  font-family: "Halvar Mittel Hl Sl"; /* Имя шрифта */
+  src: url(../font/HalvarMittel-HlSlanted.ttf); /* Путь к файлу со шрифтом */
+  }
+@font-face {
+  font-family: "Halvar Mittel Hl SuSl"; /* Имя шрифта */
+  src: url(../font/HalvarMittel-HlSuSlanted.ttf); /* Путь к файлу со шрифтом */
+  }
+@font-face {
+  font-family: "Halvar Mittel Hl SuSl"; /* Имя шрифта */
+  src: url(../font/HalvarMittel-HlSuSlanted.ttf); /* Путь к файлу со шрифтом */
+  }
+@font-face {
+  font-family: "Halvar Mittel Lt"; /* Имя шрифта */
+  src: url(../font/HalvarMittel-Lt.ttf);
+  font-style: normal;
+  font-weight: 300;
+  }
+@font-face {
+  font-family: "Halvar Mittel Lt Sl"; /* Имя шрифта */
+  src: url(../font/HalvarMittel-LtSlanted.ttf);
+  font-style: italic;
+  font-weight: 300;
+   /* Путь к файлу со шрифтом */
+}
+@font-face {
+  font-family: "Halvar Mittel SuSl"; /* Имя шрифта */
+  src: url(../font/HalvarMittel-LtSuSlanted.ttf); /* Путь к файлу со шрифтом */
+}
+@font-face {
+  font-family: "Halvar Mittel Md"; /* Имя шрифта */
+  src: url(../font/HalvarMittel-Md.ttf); /* Путь к файлу со шрифтом */
+}
+@font-face {
+  font-family: "Halvar Mittel Md"; /* Имя шрифта */
+  src: url(../font/HalvarMittel-MdSlanted.ttf); /* Путь к файлу со шрифтом */
+}
+@font-face {
+  font-family: "Halvar Mittel Md SuSl"; /* Имя шрифта */
+  src: url(../font/HalvarMittel-MdSuSlanted.ttf);
+  font-style: italic;
+  font-weight: 500;/* Путь к файлу со шрифтом */
+}
+@font-face {
+  font-family: 'Halvar Mittel Rg';
+  src: url(../font/HalvarMittel-Rg.ttf); /* Путь к файлу со шрифтом */
+}
+@font-face {
+  font-family: "Halvar Mittel Rg Sl"; /* Имя шрифта */
+  src: url(../font/HalvarMittel-RgSlanted.ttf); /* Путь к файлу со шрифтом */
+}
+@font-face {
+  font-family: "Halvar Mittel Rg SuSl"; /* Имя шрифта */
+  src: url(../font/HalvarMittel-RgSuSlanted.ttf); /* Путь к файлу со шрифтом */
+}
+@font-face {
+  font-family: "Halvar Mittel Th"; /* Имя шрифта */
+  src: url(../font/HalvarMittel-Th.ttf); /* Путь к файлу со шрифтом */
+}
+@font-face {
+  font-family: "Halvar Mittel Th Sl"; /* Имя шрифта */
+  src: url(../font/HalvarMittel-ThSlanted.ttf); /* Путь к файлу со шрифтом */
+}
+@font-face {
+  font-family: "Halvar Mittel Th SuSl"; /* Имя шрифта */
+  src: url(../font/HalvarMittel-ThSuSlanted.ttf); /* Путь к файлу со шрифтом */
+}
+@font-face {
+  font-family: "Halvar Mittel XBd"; /* Имя шрифта */
+  src: url(../font/HalvarMittel-XBd.ttf); /* Путь к файлу со шрифтом */
+}
+@font-face {
+  font-family: "Halvar Mittel XBd Sl"; /* Имя шрифта */
+  src: url(../font/HalvarMittel-XBdSlanted.ttf); /* Путь к файлу со шрифтом */
+}
+@font-face {
+  font-family: "Halvar Mittel XBd SuSl"; /* Имя шрифта */
+  src: url(../font/HalvarMittel-XBdSuSlanted.ttf);
+  font-style: italic;
+  font-weight: 800; /* Путь к файлу со шрифтом */
+}
+@font-face {
+  font-family: "Halvar Mittel XTh"; /* Имя шрифта */
+  src: url(../font/HalvarMittel-XTh.ttf); /* Путь к файлу со шрифтом */
+}
+@font-face {
+  font-family: 'Halvar Mittel XTh Sl';
+  src: url(../font/HalvarMittel-XThSlanted.ttf); /* Путь к файлу со шрифтом */
+}
+@font-face {
+  font-family: "Halvar Mittel XTh SuSl"; /* Имя шрифта */
+  src: url(../font/HalvarMittel-XThSuSlanted.ttf); /* Путь к файлу со шрифтом */
+}
