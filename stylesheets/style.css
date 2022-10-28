@@ -66,7 +66,7 @@
   src: url(../font/HalvarMittel-Md.ttf); /* Путь к файлу со шрифтом */
 }
 @font-face {
-  font-family: "Halvar Mittel Md"; /* Имя шрифта */
+  font-family: "Halvar Mittel Md Sl"; /* Имя шрифта */
   src: url(../font/HalvarMittel-MdSlanted.ttf); /* Путь к файлу со шрифтом */
 }
 @font-face {
@@ -76,7 +76,7 @@
   font-weight: 500;/* Путь к файлу со шрифтом */
 }
 @font-face {
-  font-family: 'Halvar Mittel Rg';
+  font-family: 'Halvar Mittelschrift';
   src: url(../font/HalvarMittel-Rg.ttf); /* Путь к файлу со шрифтом */
 }
 @font-face {
