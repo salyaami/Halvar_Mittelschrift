@@ -42,7 +42,7 @@ section {
   left: 1270px;
   top: 1844.12px;
 
-  font-family: 'Halvar Mittelschrift';
+  font-family: 'Halvar Mittel XBd';
   font-style: normal;
   font-weight: 500;
   font-size: 305.213px;
@@ -464,8 +464,7 @@ section {
   height: 1012.89px;
   left: 763px;
   top: 198px;
-
-  font-family: 'Halvar Mittel Rg';
+  font-family: 'Halvar Mittelschrift';
   font-style: normal;
   font-weight: 400;
   font-size: 781.721px;
@@ -477,7 +476,7 @@ section {
   position: absolute;
   left: 893px;
   top: 343px;
-  font-family: 'Halvar Mittel Rg';
+  font-family: 'Halvar Mittelschrift';
   font-style: normal;
   font-weight: 400;
   font-size: 412.623px;
@@ -576,7 +575,7 @@ section {
   left: 610.55px;
   top: 1430.26px;
 
-  font-family: 'Halvar Mittel Md';
+  font-family: 'Halvar Mittel XBd';
   font-style: normal;
   font-weight: 800;
   font-size: 249.959px;
@@ -681,9 +680,7 @@ section {
   height: 195.04px;
   left: 577.17px;
   top: 1220.83px;
-  font-family: 'Halvar Mittelschrift';
-  font-style: italic;
-  font-weight: 700;
+  font-family: 'Halvar Mittel Bd SuSl';
   font-size: 39.7809px;
   line-height: 46px;
   color: #FFFFFF;
@@ -731,7 +728,7 @@ section {
   height: 102px;
   left: 526px;
   top: 16px;
-  font-family: 'Halvar Mittelschrift';
+  font-family: 'Halvar Mittel XBd SuSl';
   font-style: italic;
   font-weight: 800;
   font-size: 88px;
