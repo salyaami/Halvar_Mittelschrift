@@ -18,6 +18,7 @@ section {
   top: 0;
   opacity: 100%;
 }
+
 .det12{
   position: absolute;
   width: 294.76px;
@@ -66,8 +67,8 @@ section {
         transition:         transform .8s ease-in-out;
 }
 .det10:hover {
--webkit-transform: rotate(360deg);
-        transform: rotate(360deg);
+  -webkit-transform: rotate(360deg);
+          transform: rotate(360deg);
 }
 .siny_kr{
   position: absolute;
@@ -100,8 +101,8 @@ section {
         transition:         transform .8s ease-in-out;
 }
 .det3:hover {
--webkit-transform: rotate(360deg);
-        transform: rotate(360deg);
+  -webkit-transform: rotate(360deg);
+          transform: rotate(360deg);
 }
 
 .krug20{
@@ -139,8 +140,8 @@ section {
         transition: all 1s ease;
 }
 .str2:hover {
--webkit-transform: rotate(-30deg);
-        transform: rotate(-30deg);
+  -webkit-transform: rotate(-30deg);
+          transform: rotate(-30deg);
 }
 .screen1 {
   position: relative;
@@ -460,44 +461,42 @@ section {
   color: #00AFFE;
 }
 .l {
-position: absolute;
-width: 227.15px;
-height: 1012.89px;
-left: 763px;
-top: 198px;
+  position: absolute;
+  width: 227.15px;
+  height: 1012.89px;
+  left: 763px;
+  top: 198px;
 
-font-family: 'Halvar Mittel Rg';
-font-style: normal;
-font-weight: 400;
-font-size: 781.721px;
-line-height: 905px;
-color: #00AFFE;
+  font-family: 'Halvar Mittel Rg';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 781.721px;
+  line-height: 905px;
+  color: #00AFFE;
 }
 
 .v {
   position: absolute;
-left: 893px;
-top: 343px;
-font-family: 'Halvar Mittel Rg';
-font-style: normal;
-font-weight: 400;
-font-size: 412.623px;
-line-height: 478px;
-color: #00AFFE;
+  left: 893px;
+  top: 343px;
+  font-family: 'Halvar Mittel Rg';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 412.623px;
+  color: #00AFFE;
 }
 
 .a1 {
   position: absolute;
-width: 219px;
-height: 469px;
-left: 984px;
-top: 540px;
-font-family: 'Halvar Mittel Th';
-font-style: normal;
-font-weight: 250;
-font-size: 405.198px;
-line-height: 469px;
-color: #00AFFE;
+  width: 219px;
+  height: 469px;
+  left: 984px;
+  top: 540px;
+  font-family: 'Halvar Mittel Th';
+  font-style: normal;
+  font-weight: 250;
+  font-size: 405.198px;
+  color: #00AFFE;
 }
 
 .r{
@@ -595,8 +594,7 @@ color: #00AFFE;
   font-style: normal;
   font-size: 331.905px;
   line-height: 384px;
-
-color: #00AFFE;
+  color: #00AFFE;
 }
 .igla1{
   position: absolute;
@@ -729,8 +727,6 @@ color: #00AFFE;
   border-radius: 100%;
 }
 
-
-
 .spr{
   position: absolute;
   width: 769px;
@@ -761,8 +757,6 @@ color: #00AFFE;
   font-style: italic;
   font-weight: 700;
   font-size: 34px;
-  line-height: 39px;
-
   color: #00AFFE;
 }
 
@@ -787,7 +781,6 @@ color: #00AFFE;
   font-style: italic;
   font-weight: 700;
   font-size: 33.9032px;
-  line-height: 39px;
   color: #00AFFE;
 
 }
@@ -801,56 +794,46 @@ color: #00AFFE;
   font-style: italic;
   font-weight: 700;
   font-size: 34px;
-  line-height: 39px;
   color: #00AFFE;
 
 }
 .podd{
-
-position: absolute;
-width: 326px;
-height: 73px;
-left: 490px;
-top: 454px;
-font-family: 'Halvar Mittelschrift';
-font-style: italic;
-font-weight: 700;
-font-size: 33.9032px;
-line-height: 39px;
-
-color: #00AFFE;
+  position: absolute;
+  width: 326px;
+  height: 73px;
+  left: 490px;
+  top: 454px;
+  font-family: 'Halvar Mittelschrift';
+  font-style: italic;
+  font-weight: 700;
+  font-size: 33.9032px;
+  color: #00AFFE;
 
 }
 .osem{
   position: absolute;
-width: 326.2px;
-height: 41.76px;
-left: 490px;
-top: 527px;
-
-font-family: 'Halvar Mittelschrift';
-font-style: italic;
-font-weight: 700;
-font-size: 33.9032px;
-line-height: 39px;
-
-color: #00AFFE;
-
+  width: 326.2px;
+  height: 41.76px;
+  left: 490px;
+  top: 527px;
+  font-family: 'Halvar Mittelschrift';
+  font-style: italic;
+  font-weight: 700;
+  font-size: 33.9032px;
+  color: #00AFFE;
 }
 .glih{
   position: absolute;
-width: 326.2px;
-height: 41.76px;
-left: 490px;
-top: 678px;
-
-font-family: 'Halvar Mittelschrift';
-font-style: italic;
-font-weight: 700;
-font-size: 33.9032px;
-line-height: 39px;
-
-color: #00AFFE;
+  width: 326.2px;
+  height: 41.76px;
+  left: 490px;
+  top: 678px;
+  font-family: 'Halvar Mittelschrift';
+  font-style: italic;
+  font-weight: 700;
+  font-size: 33.9032px;
+  line-height: 39px;
+  color: #00AFFE;
 
 }
 .simv{
@@ -1093,8 +1076,8 @@ color: #00AFFE;
   width: 3px;
   height: 740.1px;
   left: 1027px;
-    top: 200px;
-    background: white;
+  top: 200px;
+  background: white;
 }
 
 .line6{
@@ -1139,7 +1122,6 @@ color: #00AFFE;
   font-style: normal;
   font-weight: 400;
   font-size: 289.753px;
-  line-height: 336px;
   color: #C1ECFF;
 }
 .proz{
@@ -1150,7 +1132,6 @@ color: #00AFFE;
   font-style: normal;
   font-weight: 400;
   font-size: 289.753px;
-  line-height: 336px;
   color: #C1ECFF;
 }
 .skob{
@@ -1173,7 +1154,6 @@ color: #00AFFE;
   font-style: normal;
   font-weight: 400;
   font-size: 249.487px;
-  line-height: 289px;
   color: #C1ECFF;
 }
 .krug6{
@@ -1194,7 +1174,6 @@ color: #00AFFE;
   font-style: normal;
   font-weight: 400;
   font-size: 405.053px;
-  line-height: 469px;
   color: #C1ECFF;
   z-index: 2;
 }
@@ -1209,7 +1188,6 @@ color: #00AFFE;
   font-style: normal;
   font-weight: 400;
   font-size: 347.188px;
-  line-height: 402px;
   color: #FFFFFF;
   z-index: 1;
 }
@@ -1222,7 +1200,6 @@ color: #00AFFE;
   font-style: normal;
   font-weight: 400;
   font-size: 354.508px;
-  line-height: 411px;
   color: #C1ECFF;
   z-index: 2;
 }
@@ -1235,7 +1212,6 @@ color: #00AFFE;
   font-style: normal;
   font-weight: 400;
   font-size: 314.738px;
-  line-height: 364px;
   color: #FFFFFF;
   z-index: 1;
 }
@@ -1248,7 +1224,6 @@ color: #00AFFE;
   font-style: normal;
   font-weight: 400;
   font-size: 380.244px;
-  line-height: 440px;
   color: #ED1B24;
   z-index: 2;
 }
@@ -1261,7 +1236,6 @@ color: #00AFFE;
   font-style: normal;
   font-weight: 400;
   font-size: 422.806px;
-  line-height: 490px;
   color: #C1ECFF;
   z-index: 1;
 }
@@ -1276,7 +1250,6 @@ color: #00AFFE;
   font-style: normal;
   font-weight: 400;
   font-size: 319.9px;
-  line-height: 370px;
   color: #C1ECFF;
   z-index: 2;
 }
@@ -1290,7 +1263,6 @@ color: #00AFFE;
   font-style: normal;
   font-weight: 400;
   font-size: 274.2px;
-  line-height: 318px;
   color: #FFFFFF;
   z-index: 1;
 }
@@ -1302,7 +1274,6 @@ color: #00AFFE;
   font-style: normal;
   font-weight: 400;
   font-size: 274.2px;
-  line-height: 318px;
   color: #ED1B24;
   z-index: 2;
 }
@@ -1827,8 +1798,8 @@ color: #00AFFE;
         transition: all 1s ease;
 }
 .lupa:hover {
--webkit-transform: rotate(-30deg);
-        transform: rotate(-30deg);
+  -webkit-transform: rotate(-30deg);
+          transform: rotate(-30deg);
 }
 
 .pupa{
@@ -1859,13 +1830,13 @@ color: #00AFFE;
 }
 .dva{
   position: absolute;
-left: 949px;
-top: 570px;
-font-family: 'Halvar Mittelschrift';
-font-style: italic;
-font-weight: 700;
-font-size: 65.677px;
-color: #00AFFE;
+  left: 949px;
+  top: 570px;
+  font-family: 'Halvar Mittelschrift';
+  font-style: italic;
+  font-weight: 700;
+  font-size: 65.677px;
+  color: #00AFFE;
 }
 
 .okrt1 {
@@ -2488,11 +2459,11 @@ color: #00AFFE;
   left: 723.35px;
   top: 65px;
   -webkit-transition: -webkit-transform .8s ease-in-out;
-        transition:         transform .8s ease-in-out;
+  transition:         transform .8s ease-in-out;
 }
 .det9:hover {
--webkit-transform: rotate(360deg);
-        transform: rotate(360deg);
+  -webkit-transform: rotate(360deg);
+  transform: rotate(360deg);
 }
 
 .vras{
@@ -2623,8 +2594,8 @@ color: #00AFFE;
         transition: all 1s ease;
 }
 .samz:hover {
--webkit-transform: rotate(-30deg);
-        transform: rotate(-30deg);
+  -webkit-transform: rotate(-30deg);
+  transform: rotate(-30deg);
 }
 .zz{
   position: absolute;
@@ -2663,17 +2634,16 @@ color: #00AFFE;
 }
 .nul1{
   position: absolute;
-width: 235.22px;
-height: 377.23px;
-left: 586.47px;
-top: 787px;
-
-font-family: 'Halvar Mittelschrift';
-font-style: normal;
-font-size: 356.149px;
-line-height: 412px;
-font-feature-settings: 'zero' on;
-color: #FFFFFF;
+  width: 235.22px;
+  height: 377.23px;
+  left: 586.47px;
+  top: 787px;
+  font-family: 'Halvar Mittelschrift';
+  font-style: normal;
+  font-size: 356.149px;
+  line-height: 412px;
+  font-feature-settings: 'zero' on;
+  color: #FFFFFF;
 }
 
 .lin6{
@@ -2773,16 +2743,16 @@ color: #FFFFFF;
 
 .str{
   position: absolute;
-width: 117.91px;
-height: 232.15px;
-left: 467px;
-top: 883px;
-font-family: 'Halvar Mittelschrift';
-font-style: normal;
-font-weight: 700;
-font-size: 194.998px;
-line-height: 226px;
-color: #FFFFFF;
+  width: 117.91px;
+  height: 232.15px;
+  left: 467px;
+  top: 883px;
+  font-family: 'Halvar Mittelschrift';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 194.998px;
+  line-height: 226px;
+  color: #FFFFFF;
 }
 
 .krug15{
@@ -2874,7 +2844,6 @@ color: #FFFFFF;
   top: 220px;
   background: #00AFFE;
 }
-
 
 .txt1{
   position: absolute;
@@ -3315,8 +3284,8 @@ color: #00AFFE;
         transition:         transform .8s ease-in-out;
 }
 .det17:hover {
--webkit-transform: rotate(360deg); /* Градусы поворота можно изменить по необходимости */
-        transform: rotate(360deg); /* Градусы поворота можно изменить по необходимости */
+  -webkit-transform: rotate(360deg);
+          transform: rotate(360deg);
 }
 
 .zirk3 {
@@ -3327,8 +3296,8 @@ color: #00AFFE;
         transition: all 1s ease;
 }
 .zirk3:hover {
--webkit-transform: rotate(40deg);
-        transform: rotate(40deg);
+  -webkit-transform: rotate(40deg);
+          transform: rotate(40deg);
 }
 .zirk4{
   position: absolute;
@@ -3340,8 +3309,8 @@ color: #00AFFE;
         transition: all 1s ease;
 }
 .zirk4:hover {
--webkit-transform: rotate(-30deg);
-        transform: rotate(-30deg);
+  -webkit-transform: rotate(-30deg);
+          transform: rotate(-30deg);
 }
 .lin8{
   position: absolute;
@@ -3351,8 +3320,8 @@ color: #00AFFE;
 
 .lin9{
   position: absolute;
-left: 0px;
-top: 1870px;
+  left: 0px;
+  top: 1870px;
 }
 
 .d3-a{
@@ -3876,8 +3845,6 @@ color: #00AFFE;
 
 .polov{
   position: absolute;
-  /* width: 280px;
-  height: 271px; */
   left: 1228px;
   top: 932px;
 }
@@ -3891,8 +3858,8 @@ color: #00AFFE;
         transition: all 1s ease;
 }
 .zirkul:hover {
--webkit-transform: rotate(20deg);
-        transform: rotate(20deg);
+  -webkit-transform: rotate(20deg);
+          transform: rotate(20deg);
 }
 .noxx{
   position: absolute;
@@ -3904,8 +3871,8 @@ color: #00AFFE;
         transition:         transform .8s ease-in-out;
 }
 .noxx:hover {
--webkit-transform: rotate(360deg);
-        transform: rotate(360deg);
+  -webkit-transform: rotate(360deg);
+          transform: rotate(360deg);
 }
 .nox2{
   position: absolute;
@@ -3943,8 +3910,8 @@ color: #00AFFE;
         transition: all 1s ease;
 }
 .treug:hover {
--webkit-transform: rotate(-20deg);
-        transform: rotate(-20deg);
+  -webkit-transform: rotate(-20deg);
+          transform: rotate(-20deg);
 }
 .ideal{
   position: absolute;
@@ -4077,8 +4044,8 @@ color: #00AFFE;
         transition:         transform .8s ease-in-out;
 }
 .koleso1:hover {
--webkit-transform: rotate(360deg);
-        transform: rotate(360deg);
+  -webkit-transform: rotate(360deg);
+          transform: rotate(360deg);
 }
 .koleso2{
   position: absolute;
@@ -4090,8 +4057,8 @@ color: #00AFFE;
         transition:         transform .8s ease-in-out;
 }
 .koleso2:hover {
--webkit-transform: rotate(360deg);
-        transform: rotate(360deg);
+  -webkit-transform: rotate(360deg);
+          transform: rotate(360deg);
 }
 
 .bilet{
@@ -4408,8 +4375,6 @@ color: #00AFFE;
   transform: rotate(90deg);
 }
 
-
-
 .polos5{
   position: absolute;
   width: 141.8px;
@@ -4616,8 +4581,6 @@ color: #00AFFE;
   color: #00AFFE;
 }
 
-
-
 .a319{
   position: absolute;
   width: 190.39px;
@@ -4659,19 +4622,18 @@ color: #00AFFE;
   color: #00AFFE;
 }
 .c9{
+  position: absolute;
+  width: 232.04px;
+  height: 91.23px;
+  left: 152.27px;
+  top: 1664.32px;
 
-position: absolute;
-width: 232.04px;
-height: 91.23px;
-left: 152.27px;
-top: 1664.32px;
-
-font-family: 'Halvar Mittel Th';
-font-style: normal;
-font-weight: 250;
-font-size: 85px;
-line-height: 98px;
-color: #00AFFE;
+  font-family: 'Halvar Mittel Th';
+  font-style: normal;
+  font-weight: 250;
+  font-size: 85px;
+  line-height: 98px;
+  color: #00AFFE;
 }
 .dev{
   position: absolute;
@@ -4697,16 +4659,8 @@ color: #00AFFE;
   font-style: normal;
   font-weight: 250;
   font-size: 85px;
-  line-height: 98px;
-
   color: #00AFFE;
 }
-
-
-
-
-
-
 
 .n_1{
   position: absolute;
@@ -5145,8 +5099,7 @@ color: #00AFFE;
   font-weight: 400;
   font-size: 60px;
   line-height: 69px;
-
-color: #00AFFE;
+  color: #00AFFE;
 }
 .art{
   position: absolute;
