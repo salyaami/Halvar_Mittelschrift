@@ -74,8 +74,8 @@ section {
   position: absolute;
   width: 95.22px;
   height: 95.22px;
-  left: 1133.67px;
-  top: 1958.33px;
+  left: 1125.67px;
+  top: 1948.33px;
   border-radius: 100%;
 
   background: #00AFFE;
@@ -436,13 +436,11 @@ section {
   height: 1076.84px;
   left: 173px;
   top: 64px;
-
   font-family: 'Halvar Mittelschrift';
   font-style: normal;
   font-weight: 400;
   font-size: 932.214px;
   line-height: 1080px;
-
   color: #ED1B24;
 
 }
@@ -527,7 +525,7 @@ section {
   z-index: 1;
   position: absolute;
   margin-left: 239px;
-  top: 1014px;
+  top: 1020px;
   font-size: 174px;
   color: #FFF;
 }
@@ -1182,8 +1180,8 @@ section {
   position: relative;
   width: 132px;
   height: 402px;
-  left: 161px;
-  top: -467px;
+  left: 166px;
+  top: -445px;
   font-family: 'Halvar Mittelschrift';
   font-style: normal;
   font-weight: 400;
@@ -1269,7 +1267,7 @@ section {
 .d5{
   position: absolute;
   left: 789.5px;
-  top: 625px;
+  top: 646px;
   font-family: 'Halvar Mittelschrift';
   font-style: normal;
   font-weight: 400;
@@ -1760,7 +1758,7 @@ section {
   position: absolute;
   width: 270px;
   height: 270px;
-  left: 78px;
+  left: 85px;
   top: 1049px;
   display: flex;
   justify-content: space-between;
@@ -1816,7 +1814,7 @@ section {
   position: absolute;
   width: 270px;
   height: 270px;
-  left: 1131px;
+  left: 1140px;
   top: 1050px;
   display: flex;
   justify-content: space-between;
